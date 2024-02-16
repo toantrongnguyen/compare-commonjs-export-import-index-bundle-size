@@ -1,6 +1,5 @@
 "use client";
-import Button from "./components/Button";
-import Massive from "./components/Massive";
+import { Button, Massive } from "./components";
 
 export default function Home() {
   return (
